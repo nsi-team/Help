@@ -7,13 +7,9 @@
 
   <body>
         <h1>Perdu sur notre site ?</h1>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
     <p>N'hésitez pas à retourner à l'accueil : <a href="https://nsi-team.github.io/GIF_mignon/">Acceuil GIF Mignon</a>
