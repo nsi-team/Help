@@ -15,3 +15,4 @@
     <p>N'hésitez pas à retourner à l'accueil : <a href="https://nsi-team.github.io/GIF_mignon/">Acceuil GIF Mignon</a>
     <p></p>
     <p>Si vous êtes toujours perdu contactez nous (<a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>), par l'adresse email : cetteAdresseExistePasReelement@hotmail.com ou par la messagerie de <a href="https://rene-gosse.mon-ent-occitanie.fr/"> l'ENT</a>
+<script src="script.js"></script>
